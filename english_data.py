@@ -78,7 +78,7 @@ english_word_dictionary = [
     {"word": "Routine",             "mean": "Rutin"},
     {"word": "Stable",              "mean": "Stabil"},
     {"word": "Dubbing",             "mean": "Dublaj"},
-    {"word": "Subtitle",            "mean": "Altyazı"},
+    {"word": "Subtitle",            "mean": "Alt Yazı"},
     {"word": "Possible",            "mean": "Mümkün"},
     {"word": "Nest",                "mean": "Yuva"},
     {"word": "Different",           "mean": "Farklı"},
